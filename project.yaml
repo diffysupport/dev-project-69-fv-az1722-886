@@ -1,5 +1,5 @@
 basic:
-    name: "Bahringer, O'Connell and Dickinson"
+    name: 'Parisian and Sons'
     environments:
         production: 'https://google.com'
         staging: ''
